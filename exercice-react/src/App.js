@@ -10,6 +10,15 @@ function App() {
         <h1>Hello la piscine</h1>
 
         <p>Désolée je ne sais pas quoi mettre en texte ^^.</p>
+
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
       </header>
     </div>
   );
