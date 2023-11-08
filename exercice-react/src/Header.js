@@ -8,7 +8,7 @@ function Header() {
         <h1>Super ecommerce</h1>
         <nav>
           <ul>
-            {isUserLogged ? <li>David Robert</li> : <li>Veuillez vous connecter</li>}
+            {isUserLogged ? <li>Emily Alexandre</li> : <li>Veuillez vous connecter</li>}
   
             <li>Home</li>
             <li>Products</li>
